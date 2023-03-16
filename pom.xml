@@ -45,4 +45,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>cn.ghrf</id>
+      <name>App</name>
+      <url>https://github.com/yaoguilv/exregi/releases/</url>
+    </repository>
+  </distributionManagement>
 </project>
