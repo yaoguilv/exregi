@@ -55,4 +55,10 @@ vscode中的settings文件夹内容会自动更新
 mvn isntall
 ```
 
-- 修改
+- 失败过程记录
+```
+# 在yml文件中：windows-latest
+找不到 D:\settings.xml文件
+# 在yml文件中：ubuntu-latest
+Could not transfer artifact   authorization failed for
+```
