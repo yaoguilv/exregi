@@ -48,7 +48,7 @@
   <distributionManagement>
     <repository>
       <id>cn.ghrf</id>
-      <name>App2</name>
+      <name>App</name>
       <url>https://github.com/yaoguilv/exregi/releases/</url>
     </repository>
   </distributionManagement>
