@@ -49,7 +49,7 @@
     <repository>
       <id>github</id>
       <name>MyAppName</name>
-      <url>https://github.com/yaoguilv/exregi</url>
+      <url>https://maven.pkg.github.com/yaoguilv/exregi</url>
     </repository>
   </distributionManagement>
 </project>
